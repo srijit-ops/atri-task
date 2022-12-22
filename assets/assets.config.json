@@ -1,0 +1,98 @@
+{
+  "site_name.svg": {
+    "mime": "image/svg+xml"
+  },
+  "folk.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "trust1.png": {
+    "mime": "image/png"
+  },
+  "trust2.png": {
+    "mime": "image/png"
+  },
+  "trust3.png": {
+    "mime": "image/png"
+  },
+  "trust4.png": {
+    "mime": "image/png"
+  },
+  "service1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "pd1.png": {
+    "mime": "image/png"
+  },
+  "pd2.png": {
+    "mime": "image/png"
+  },
+  "pd3.png": {
+    "mime": "image/png"
+  },
+  "pd4.png": {
+    "mime": "image/png"
+  },
+  "book.webp": {
+    "mime": "image/webp"
+  },
+  "bag.webp": {
+    "mime": "image/webp"
+  },
+  "arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ex1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ex2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ex3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-next.svg": {
+    "mime": "image/svg+xml"
+  },
+  "letter.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icons8-right-arrow-50.png": {
+    "mime": "image/png"
+  },
+  "white-arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "project1.png": {
+    "mime": "image/png"
+  },
+  "project2.png": {
+    "mime": "image/png"
+  },
+  "project3.png": {
+    "mime": "image/png"
+  },
+  "left arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "test.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "collon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "w-l-a.svg": {
+    "mime": "image/svg+xml"
+  },
+  "w-r-a.svg": {
+    "mime": "image/svg+xml"
+  }
+}
