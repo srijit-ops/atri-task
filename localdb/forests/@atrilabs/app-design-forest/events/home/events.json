@@ -139295,5 +139295,15 @@
     "slice": {
       "alias": "product_info"
     }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 3.8134977221488953
+      }
+    },
+    "id": "75caa6bd-9342-4d6b-b923-23637d0ca113"
   }
 ]
