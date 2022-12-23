@@ -58,7 +58,7 @@ const desktopModeProps = {
     "hero_img_holder": {
       "callbacks": {}
     },
-    "Div4": {
+    "hero_info": {
       "callbacks": {}
     },
     "Div5": {
@@ -73,22 +73,31 @@ const desktopModeProps = {
     "Flex10": {
       "callbacks": {}
     },
-    "Div7": {
-      "callbacks": {}
-    },
     "trusted_by": {
       "callbacks": {}
     },
-    "Flex11": {
+    "trust_img_holder": {
+      "callbacks": {}
+    },
+    "Div86": {
+      "callbacks": {}
+    },
+    "Div87": {
+      "callbacks": {}
+    },
+    "Div88": {
+      "callbacks": {}
+    },
+    "Div89": {
       "callbacks": {}
     },
     "service": {
       "callbacks": {}
     },
-    "Flex12": {
+    "service_info": {
       "callbacks": {}
     },
-    "Flex13": {
+    "services_holder": {
       "callbacks": {}
     },
     "Div10": {
@@ -142,7 +151,7 @@ const desktopModeProps = {
     "Div25": {
       "callbacks": {}
     },
-    "Div82": {
+    "projects_holder": {
       "callbacks": {}
     },
     "Flex60": {
@@ -178,13 +187,13 @@ const desktopModeProps = {
     "product_desinger": {
       "callbacks": {}
     },
-    "Flex25": {
+    "product_info": {
       "callbacks": {}
     },
     "Div32": {
       "callbacks": {}
     },
-    "Flex26": {
+    "product_imgs": {
       "callbacks": {}
     },
     "Div33": {
@@ -199,7 +208,7 @@ const desktopModeProps = {
     "education_work": {
       "callbacks": {}
     },
-    "Div35": {
+    "education": {
       "callbacks": {}
     },
     "Flex29": {
@@ -250,7 +259,7 @@ const desktopModeProps = {
     "Div48": {
       "callbacks": {}
     },
-    "Div36": {
+    "work": {
       "callbacks": {}
     },
     "Flex30": {
@@ -325,7 +334,7 @@ const desktopModeProps = {
     "Flex40": {
       "callbacks": {}
     },
-    "Flex41": {
+    "faq_holders": {
       "callbacks": {}
     },
     "Div65": {
@@ -337,7 +346,7 @@ const desktopModeProps = {
     "footer": {
       "callbacks": {}
     },
-    "Flex42": {
+    "footer_links": {
       "callbacks": {}
     },
     "Div68": {
@@ -361,7 +370,7 @@ const desktopModeProps = {
     "testimonial": {
       "callbacks": {}
     },
-    "Flex67": {
+    "testimonial_info": {
       "callbacks": {}
     },
     "Div83": {
@@ -382,7 +391,7 @@ const desktopModeProps = {
     "blogs": {
       "callbacks": {}
     },
-    "Flex48": {
+    "blog_info": {
       "callbacks": {}
     },
     "Div71": {
@@ -391,7 +400,7 @@ const desktopModeProps = {
     "Flex49": {
       "callbacks": {}
     },
-    "Div72": {
+    "blogs_example": {
       "callbacks": {}
     },
     "Div73": {
@@ -545,7 +554,7 @@ const desktopModeProps = {
     },
     "TextBox5": {
       "custom": {
-        "text": "that delight and"
+        "text": ""
       },
       "callbacks": {
         "onClick": [
@@ -557,7 +566,7 @@ const desktopModeProps = {
     },
     "TextBox6": {
       "custom": {
-        "text": " inspire people."
+        "text": " that delight and inspire people."
       },
       "callbacks": {
         "onClick": [
@@ -615,6 +624,9 @@ const desktopModeProps = {
         ]
       }
     },
+    "Div7": {
+      "callbacks": {}
+    },
     "Link7": {
       "custom": {
         "text": "Download CV",
@@ -632,18 +644,6 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/icons8-right-arrow-50.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox11": {
-      "custom": {
-        "text": "dummyyyy"
       },
       "callbacks": {
         "onClick": [
@@ -678,10 +678,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image4": {
+    "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/trust2.png"
+        "src": "/app-assets/trust4.png"
       },
       "callbacks": {
         "onClick": [
@@ -704,10 +704,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image6": {
+    "Image4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/trust4.png"
+        "src": "/app-assets/trust2.png"
       },
       "callbacks": {
         "onClick": [

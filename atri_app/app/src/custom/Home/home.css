@@ -4,22 +4,22 @@
 }
 .accordion{
     background-color: black!important;
-    padding-top: 25px!important;
-    padding-bottom: 40px!important;
-    border-bottom: 1px solid!important;
+    padding-top: 1.563rem!important;
+    padding-bottom: 2.5rem!important;
+    border-bottom: 0.063rem solid!important;
     padding-left: 0!important;
 }
 .accordion-title{
     color: #fff;
-    font-size: 24px!important;
+    font-size: 1.5rem!important;
     line-height: 130%;
     font-weight: 400!important;
-    letter-spacing: 0.3px;
+    letter-spacing: 0.019rem;
     font-family: "IBM Plex Sans";
     margin-left: 3rem!important;
 }
 .accordion-text{
-    font-size: 18px!important;
+    font-size: 1.125rem!important;
     line-height: 150%;
     color: #666!important;
     font-family: "IBM Plex Sans";
@@ -42,4 +42,7 @@
 }
 .Image43{
     filter: grayscale(1);
+}
+.TextBox14,.TextBox32,.TextBox101,.TextBox104,.TextBox107,.TextBox77,.TextBox35,.TextBox75{
+    letter-spacing: 0.25rem;
 }
